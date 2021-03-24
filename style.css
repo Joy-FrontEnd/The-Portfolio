@@ -115,6 +115,21 @@ hr{
   flex-direction: column;
 }
 
+.socials ul {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+}
+
+.socials ul li{
+  padding-bottom: 20px;
+  width: 100%;
+  text-align: center;
+}
+.hero p{
+  width: 100%;
+  text-align: center;
+}
 
 
 }
@@ -123,15 +138,6 @@ hr{
   .development, .design{
   display: flex;
   flex-direction: column;
-}
-.socials ul {
-  list-style: none;
-  display: flex;
-  flex-direction: column;
-}
-
-.socials li{
-  padding-bottom: 20px;
 }
 }
 
@@ -146,9 +152,14 @@ hr{
   flex-direction: column;
 }
 
-.socials li{
+.socials ul li{
   padding-bottom: 20px;
+  width: 100%;
+  text-align: center;
 }
-
+.hero p{
+  width: 100%;
+  text-align: center;
+}
 
 }
