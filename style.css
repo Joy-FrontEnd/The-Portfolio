@@ -99,11 +99,11 @@ nav li a{
 
 .projects p{
   font-size: 16px;
-  padding-bottom: 10px;
-  
-  
+  padding-bottom: 10px; 
   
 }
+
+
 
 hr{
   width: 90%;
@@ -157,9 +157,11 @@ hr{
   width: 100%;
   text-align: center;
 }
+
 .hero p{
   width: 100%;
   text-align: center;
 }
+
 
 }
