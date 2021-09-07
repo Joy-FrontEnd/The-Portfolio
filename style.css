@@ -6,7 +6,7 @@ body {
   margin: 0;
   padding: 0;
   font-family: "Poppins", sans-serif;
-  color: rgb(68, 67, 67);
+  color: rgb(85, 83, 83);
   background-color: #ebeae6;
 }
 
@@ -28,7 +28,7 @@ h2 {
 }
 
 .hero img {
-  border-radius: 50%;
+  border-radius: 5%;
   display: flex;
   margin: 20px auto;
   width: 300px;
